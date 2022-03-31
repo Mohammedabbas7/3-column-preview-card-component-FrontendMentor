@@ -74,6 +74,7 @@ a {
 }
 
 .col__heading {
+    text-transform: uppercase;
     color: var(--very-light-gray);
     margin-bottom: 20px;
 } 
